@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RegisterStateMachine","A state machine that holds a single mutable value."]]});
